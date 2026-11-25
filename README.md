@@ -1,10 +1,10 @@
 Hi there, I'm Lluís 👋
 
 I'm studying to be a great computer engineer
-
+<!--
 A few years ago, I completed a project demonstrating how to connect an Arduino to the school network. This project displayed various humidity and temperature data about the school.
 
-<!--
+
 **lluis6/lluis6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
